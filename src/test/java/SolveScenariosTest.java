@@ -29,7 +29,7 @@ class SolveScenariosTest {
 
     @Test
     void matchesPlayedPerYear() {
-        List<Match> matchData = readInput.getMatchData("matchesPlayedPerSeasonTest.csv");
+        List<Match> matchData = readInput.getMatchData("Files/TestFiles/matchesPlayedPerSeasonTest.csv");
 
         Map<String, Integer> matchesPlayedPerSeason = solved.matchesPlayedPerYear(matchData);
 
@@ -38,7 +38,7 @@ class SolveScenariosTest {
     }
     @Test
     void test_MatchesWonOfAllTeams_CorrectInput() {
-        List<Match> matchData = readInput.getMatchData("matchesWonTest.csv");
+        List<Match> matchData = readInput.getMatchData("Files/TestFiles/matchesWonTest.csv");
 
         Map<String, Integer> matchesWon = solved.matchesWonOfAllTeams(matchData);
 
@@ -48,7 +48,7 @@ class SolveScenariosTest {
 
     @Test
     void test_MatchesWonOfAllTeams_NullInput() {
-        List<Match> matchData = readInput.getMatchData("matchesWonTestNullInput.csv");
+        List<Match> matchData = readInput.getMatchData("Files/TestFiles/matchesWonTestNullInput.csv");
 
         Map<String, Integer> matchesWon = solved.matchesWonOfAllTeams(matchData);
 
@@ -58,7 +58,7 @@ class SolveScenariosTest {
 
     @Test
     void test_MatchesWonOfAllTeams_IncorrectFileInput() {
-        List<Match> matchData = readInput.getMatchData("some_random_file_which_is_not_present.csv");
+        List<Match> matchData = readInput.getMatchData("Files/TestFiles/some_random_file_which_is_not_present.csv");
 
         Map<String, Integer> matchesWon = solved.matchesWonOfAllTeams(matchData);
 
@@ -67,7 +67,7 @@ class SolveScenariosTest {
 
     @Test
     void test_MatchesWonOfAllTeams_InvalidSplittedFileInput() {
-        List<Match> matchData = readInput.getMatchData("invalid_delimeter_file.txt");
+        List<Match> matchData = readInput.getMatchData("Files/TestFiles/invalid_delimeter_file.txt");
 
         Map<String, Integer> matchesWon = solved.matchesWonOfAllTeams(matchData);
 

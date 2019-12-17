@@ -10,10 +10,16 @@
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_2.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matches.csv" beforeDir="false" afterPath="$PROJECT_DIR$/matches.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliveries.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Files/deliveries.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invalid_delimeter_file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matches.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Files/matches.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchesPlayedPerSeasonTest.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchesWonTest.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matchesWonTestNullInput.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mb-ipl-project-v3.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mb-ipl-project-v3.0.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Constants.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Delivery.java" beforeDir="false" />
@@ -21,6 +27,7 @@
       <change beforePath="$PROJECT_DIR$/src/com/company/Match.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/ReadInput.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/SolveScenarios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SolveScenariosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SolveScenariosTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +67,10 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Files" />
+      <recent name="$PROJECT_DIR$/Files/TestFiles" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -82,22 +93,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SolveScenariosTest.test_MatchesWonOfAllTeams_InvalidSplittedFileInput">
+  <component name="RunManager" selected="JUnit.SolveScenariosTest">
+    <configuration name="SolveScenariosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mb-ipl-project-v3.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolveScenariosTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SolveScenariosTest.matchesPlayedPerYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mb-ipl-project-v3.0" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SolveScenariosTest" />
       <option name="METHOD_NAME" value="matchesPlayedPerYear" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolveScenariosTest.test_MatchesWonOfAllTeams_CorrectInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mb-ipl-project-v3.0" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SolveScenariosTest" />
-      <option name="METHOD_NAME" value="test_MatchesWonOfAllTeams_CorrectInput" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -135,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolveScenariosTest" />
+        <item itemvalue="JUnit.SolveScenariosTest.test_MatchesWonOfAllTeams_NullInput" />
+        <item itemvalue="JUnit.SolveScenariosTest.matchesPlayedPerYear" />
         <item itemvalue="JUnit.SolveScenariosTest.test_MatchesWonOfAllTeams_InvalidSplittedFileInput" />
         <item itemvalue="JUnit.SolveScenariosTest.test_MatchesWonOfAllTeams_IncorrectFileInput" />
-        <item itemvalue="JUnit.SolveScenariosTest.test_MatchesWonOfAllTeams_NullInput" />
-        <item itemvalue="JUnit.SolveScenariosTest.test_MatchesWonOfAllTeams_CorrectInput" />
-        <item itemvalue="JUnit.SolveScenariosTest.matchesPlayedPerYear" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +168,7 @@
       <workItem from="1576489523792" duration="4416000" />
       <workItem from="1576506697230" duration="1984000" />
       <workItem from="1576562408566" duration="634000" />
-      <workItem from="1576563479996" duration="2325000" />
+      <workItem from="1576563479996" duration="4665000" />
     </task>
     <servers />
   </component>

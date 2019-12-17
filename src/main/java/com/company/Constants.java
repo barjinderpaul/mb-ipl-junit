@@ -1,8 +1,8 @@
 package com.company;
 
 public class Constants {
-    public static final String MATCH_FILE = "matches.csv";
-    public static final String DELIVERIES_FILE = "deliveries.csv";
+    public static final String MATCH_FILE = "Files/matches.csv";
+    public static final String DELIVERIES_FILE = "Files/deliveries.csv";
     public static final String SPLITTER = ",";
     public static final String EXTRA_RUNS_YEAR = "2016";
     public static final String ECONOMIC_BOWLER_YEAR = "2015";
