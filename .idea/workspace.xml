@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d71aaef6-7abe-4775-b00c-df07af1bd5a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matches.csv" beforeDir="false" afterPath="$PROJECT_DIR$/matches.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mb-ipl-project-v3.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mb-ipl-project-v3.0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Delivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Match.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ReadInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/SolveScenarios.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1U0o4U8ADbzqHHmDLfM1Hj0rHMB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.11467892" />
+    <property name="project.structure.side.proportion" value="0.45454547" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SolveScenariosTest.test_MatchesWonOfAllTeams_InvalidSplittedFileInput">
+    <configuration name="SolveScenariosTest.matchesPlayedPerYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mb-ipl-project-v3.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolveScenariosTest" />
+      <option name="METHOD_NAME" value="matchesPlayedPerYear" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolveScenariosTest.test_MatchesWonOfAllTeams_CorrectInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mb-ipl-project-v3.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolveScenariosTest" />
+      <option name="METHOD_NAME" value="test_MatchesWonOfAllTeams_CorrectInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolveScenariosTest.test_MatchesWonOfAllTeams_IncorrectFileInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mb-ipl-project-v3.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolveScenariosTest" />
+      <option name="METHOD_NAME" value="test_MatchesWonOfAllTeams_IncorrectFileInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolveScenariosTest.test_MatchesWonOfAllTeams_InvalidSplittedFileInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mb-ipl-project-v3.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolveScenariosTest" />
+      <option name="METHOD_NAME" value="test_MatchesWonOfAllTeams_InvalidSplittedFileInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolveScenariosTest.test_MatchesWonOfAllTeams_NullInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mb-ipl-project-v3.0" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolveScenariosTest" />
+      <option name="METHOD_NAME" value="test_MatchesWonOfAllTeams_NullInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SolveScenariosTest.test_MatchesWonOfAllTeams_InvalidSplittedFileInput" />
+        <item itemvalue="JUnit.SolveScenariosTest.test_MatchesWonOfAllTeams_IncorrectFileInput" />
+        <item itemvalue="JUnit.SolveScenariosTest.test_MatchesWonOfAllTeams_NullInput" />
+        <item itemvalue="JUnit.SolveScenariosTest.test_MatchesWonOfAllTeams_CorrectInput" />
+        <item itemvalue="JUnit.SolveScenariosTest.matchesPlayedPerYear" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d71aaef6-7abe-4775-b00c-df07af1bd5a0" name="Default Changelist" comment="" />
+      <created>1574502683032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574502683032</updated>
+      <workItem from="1574502686366" duration="10490000" />
+      <workItem from="1576475126965" duration="3859000" />
+      <workItem from="1576489523792" duration="4416000" />
+      <workItem from="1576506697230" duration="1984000" />
+      <workItem from="1576562408566" duration="634000" />
+      <workItem from="1576563479996" duration="2325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
